@@ -2,7 +2,7 @@
 <h3 align="center">Information Science & Engineering student | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratham-ahuja05&label=100%2B%20Profile%20views&color=blue&style=for-the-badge" alt="Profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=pratham-ahuja05&label=Profile%20views&color=blue&style=for-the-badge)
  
 </p>
 
