@@ -65,11 +65,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham-ahuja05&show_icons=true&theme=radical" alt="stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ahuja05&layout=compact&theme=radical" alt="languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratham-ahuja05&show_icons=true&theme=merko" alt="Pratham's GitHub stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ahuja05&layout=compact&theme=merko" alt="Top Languages" height="180em"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pratham-ahuja05&theme=merko" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-ahuja05&theme=vue" alt="GitHub Summary"/>
+</p>
+
 
 ### 🌐 Connect With Me
 <p align="left">
