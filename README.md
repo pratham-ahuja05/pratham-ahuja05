@@ -12,7 +12,7 @@
 - 💻 Passionate about **Software Development, System Design, and Web Applications**  
 - 🚀 Currently exploring **ReactJS**, **Spring Boot**, and **Scalable Architectures**  
 - 🧩 Love solving problems on **LeetCode** and improving my **DSA** skills  
-- ⚡ Fun fact: I debug my code faster when coffee is nearby ☕  
+- ⚡ Fun fact: I debug my code faster when tea is nearby ☕  
 
 ---
 
@@ -48,8 +48,8 @@
 
 ### 🧠 Currently Learning
 - ☕ Advanced Java and Spring Boot  
-- ⚛️ Modern ReactJS + RESTful API Integration  
-- 🧮 Competitive Programming & Problem Solving  
+- ⚛️ WEB DEV  
+- 🧮 DSA & Problem Solving  
 
 ---
 
