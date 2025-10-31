@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratham Ahuja</h1>
 <h3 align="center">Information Science & Engineering student | Full Stack Developer | Problem Solver</h3>
+<p>
+<img src="https://komarev.com/ghpvc/?username=pratham-ahuja05&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-ahuja05" />
 
-<p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=pratham-ahuja05&label=Profile%20views&color=blue&style=for-the-badge)
  
 </p>
 
