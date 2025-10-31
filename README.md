@@ -70,8 +70,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pratham-ahuja05&theme=merko" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-ahuja05&theme=merko" alt="pratham-ahuja05" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-ahuja05&theme=vue" alt="GitHub Summary"/>
