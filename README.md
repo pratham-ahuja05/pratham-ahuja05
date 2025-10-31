@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pratham Ahuja</h1>
 <h3 align="center">Information Science & Engineering student | Full Stack Developer | Problem Solver</h3>
-<p>
-<img src="https://komarev.com/ghpvc/?username=pratham-ahuja05&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-ahuja05" />
 
- 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratham-ahuja05&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-ahuja05" />
 </p>
 
 ---
+
 
 ### 💫 About Me
 - 🎓 Pursuing **B.E. in Information Science and Engineering** at *The National Institute of Engineering, Mysuru (2023–2027)*  
