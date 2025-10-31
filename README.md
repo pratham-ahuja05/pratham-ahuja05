@@ -65,17 +65,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham-ahuja05&show_icons=true&theme=merko" alt="Pratham's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ahuja05&layout=compact&theme=merko" alt="Top Languages" height="180em"/>
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pratham-ahuja05&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&text_color=00ff88&icon_color=00ff88" alt="Pratham's GitHub stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ahuja05&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&text_color=00ff88" alt="Top Languages" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratham-ahuja05&theme=merko&hide_border=false" alt="GitHub Streak"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-ahuja05&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-ahuja05&theme=vue" alt="GitHub Summary"/>
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-ahuja05&theme=github_dark" alt="GitHub Summary"/>
 </p>
 
 
