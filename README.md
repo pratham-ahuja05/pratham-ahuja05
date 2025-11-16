@@ -58,6 +58,10 @@
 * Final agreements are securely recorded on the Ethereum blockchain via smart contracts.
 * **Tech:** Full stack using **FastAPI**, **Next.js**, and **Hardhat** for smart contracts.
 
+
+---
+  
+
 ### 🧠 Currently Learning
 - ☕ Advanced Java and Spring Boot  
 - ⚛️ WEB DEV  
