@@ -35,23 +35,28 @@
 
 ### 🚀 Projects
 
+---
+
 #### 🖥️ [OS Scheduling Visualizer](https://github.com/pratham-ahuja05/OS-Scheduling-Visualizer)
-- Simulates major CPU scheduling algorithms — FCFS, SJF, Priority, Round Robin  
-- Features dynamic **Gantt chart visualization**, live execution, and performance metrics  
-- Implemented using **JavaFX Timeline API** for smooth, real-time animations  
-
-#### 🧳 [Lost & Found Management System](https://github.com/pratham-ahuja05/lost_N_found)
-- Full-stack PHP & MySQL web app for managing airport lost-and-found items  
-- Added **smart matching logic** reducing manual verification by 60%  
-- Includes admin dashboard, role-based access, and photo uploads  
-
-### 🪙 [EquiExchange – AI Negotiation & Web3 Trading Platform](https://github.com/pratham-ahuja05/equi-exchange)
--AI-driven buyer/seller agents negotiate prices automatically using heuristics + Q-Learning
--Computes utilities, fairness, and convergence over multiple negotiation rounds
--Final agreements are securely recorded on Ethereum via Hardhat smart contracts
--Full stack: FastAPI, Next.js, MetaMask wallet integration, Smart Contracts
+* Simulates major CPU scheduling algorithms—FCFS, SJF, Priority, and Round Robin.
+* Features dynamic **Gantt chart visualization**, live execution tracking, and performance metrics.
+* **Tech:** Implemented using **JavaFX** and the Timeline API for smooth, real-time animations.
 
 ---
+
+#### 🧳 [Lost & Found Management System](https://github.com/pratham-ahuja05/lost_N_found)
+* Full-stack web app for managing airport lost-and-found items.
+* Added **smart matching logic** that reduced manual verification by 60%.
+* Includes an admin dashboard, role-based access controls, and photo uploads.
+* **Tech:** Built with **PHP** and **MySQL**.
+
+---
+
+#### 🪙 [EquiExchange – AI Negotiation & Web3 Trading Platform](https://github.com/pratham-ahuja05/equi-exchange)
+* AI-driven buyer/seller agents negotiate prices automatically using heuristics and **Q-Learning**.
+* Computes utilities, fairness, and convergence over multiple negotiation rounds.
+* Final agreements are securely recorded on the Ethereum blockchain via smart contracts.
+* **Tech:** Full stack using **FastAPI**, **Next.js**, and **Hardhat** for smart contracts.
 
 ### 🧠 Currently Learning
 - ☕ Advanced Java and Spring Boot  
