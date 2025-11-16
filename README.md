@@ -45,15 +45,12 @@
 - Added **smart matching logic** reducing manual verification by 60%  
 - Includes admin dashboard, role-based access, and photo uploads  
 
-🪙 EquiExchange – AI Negotiation & Web3 Trading Platform
+### 🪙 [EquiExchange – AI Negotiation & Web3 Trading Platform](https://github.com/pratham-ahuja05/equi-exchange)
+-AI-driven buyer/seller agents negotiate prices automatically using heuristics + Q-Learning
+-Computes utilities, fairness, and convergence over multiple negotiation rounds
+-Final agreements are securely recorded on Ethereum via Hardhat smart contracts
+-Full stack: FastAPI, Next.js, MetaMask wallet integration, Smart Contracts
 
-AI-driven buyer/seller agents negotiate prices automatically using heuristics + Q-Learning
-
-Computes utilities, fairness, and convergence over multiple negotiation rounds
-
-Final agreements are securely recorded on Ethereum via Hardhat smart contracts
-
-Full stack: FastAPI, Next.js, MetaMask wallet integration, Smart Contracts
 ---
 
 ### 🧠 Currently Learning
