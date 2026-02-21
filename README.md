@@ -61,9 +61,9 @@
 ---
 
 #### 🤖 [AI-Assisted Issue & Incident Management System](https://github.com/pratham-ahuja05/issue-management-system)
-*AI-powered backend that analyzes issues, detects duplicates, and generates concise summaries automatically.
-*Supports full lifecycle management with status workflows, search, pagination, and soft delete/restore.
-*Designed with clean layered architecture, DTO validation, and standardized error handling for production readiness.
+* AI-powered backend that analyzes issues, detects duplicates, and generates concise summaries automatically.
+* Supports full lifecycle management with status workflows, search, pagination, and soft delete/restore.
+* Designed with clean layered architecture, DTO validation, and standardized error handling for production readiness.
 * **Tech:** Spring Boot, Java, REST APIs, MySQL.
 
 
