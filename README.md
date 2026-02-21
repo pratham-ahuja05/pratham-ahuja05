@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Ahuja</h1>
-<h3 align="center">Information Science & Engineering student | Full Stack Developer | Problem Solver</h3>
+<h3 align="center">Information Science & Engineering student | Full Stack Java Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratham-ahuja05&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-ahuja05" />
