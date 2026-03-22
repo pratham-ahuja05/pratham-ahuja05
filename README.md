@@ -37,35 +37,34 @@
 
 ---
 
-#### 🖥️ [OS Scheduling Visualizer](https://github.com/pratham-ahuja05/OS-Scheduling-Visualizer)
-* Simulates major CPU scheduling algorithms—FCFS, SJF, Priority, and Round Robin.
-* Features dynamic **Gantt chart visualization**, live execution tracking, and performance metrics.
-* **Tech:** Implemented using **JavaFX** and the Timeline API for smooth, real-time animations.
+#### 🤖 [Sentinel-AI: Intelligent Incident Engine and Issue Tracker](https://github.com/pratham-ahuja05/issue-management-system)
+* AI-powered backend that analyzes issues, detects duplicates, and generates concise summaries automatically.  
+* Supports full lifecycle management with status workflows, search, pagination, and soft delete/restore.  
+* Designed with clean layered architecture, DTO validation, and standardized error handling for production readiness.  
+* **Tech:** Spring Boot, Java, REST APIs, MySQL.  
 
 ---
 
-#### 🧳 [Lost & Found Management System](https://github.com/pratham-ahuja05/lost_N_found)
-* Full-stack web app for managing airport lost-and-found items.
-* Added **smart matching logic** that reduced manual verification by 60%.
-* Includes an admin dashboard, role-based access controls, and photo uploads.
-* **Tech:** Built with **PHP** and **MySQL**.
+#### ⚙️ [High-Throughput Distributed Job Queue](https://github.com/pratham-ahuja05/distributed-job-queue)
+* Fault-tolerant distributed system for processing high-volume asynchronous jobs with strict priority handling.  
+* Implements exactly-once execution using pessimistic locking and Redis-backed queues.  
+* Features retry strategies, dead letter queue (DLQ), and automatic failure recovery via monitoring service.  
+* **Tech:** Java, Spring Boot, Redis, PostgreSQL, Docker.  
+
+---
+
+#### 🖥️ [OS Scheduling Visualizer](https://github.com/pratham-ahuja05/OS-Scheduling-Visualizer)
+* Simulates major CPU scheduling algorithms—FCFS, SJF, Priority, and Round Robin.  
+* Features dynamic **Gantt chart visualization**, live execution tracking, and performance metrics.  
+* **Tech:** JavaFX with Timeline API for real-time animations.  
 
 ---
 
 #### 🪙 [EquiExchange – AI Negotiation & Web3 Trading Platform](https://github.com/pratham-ahuja05/equi-exchange)
-* AI-driven buyer/seller agents negotiate prices automatically using heuristics and **Q-Learning**.
-* Computes utilities, fairness, and convergence over multiple negotiation rounds.
-* Final agreements are securely recorded on the Ethereum blockchain via smart contracts.
-* **Tech:** Full stack using **FastAPI**, **Next.js**, and **Hardhat** for smart contracts.
-
----
-
-#### 🤖 [Sentinel-AI:Intelligent Incident Engine and Issue Tracker](https://github.com/pratham-ahuja05/issue-management-system)
-* AI-powered backend that analyzes issues, detects duplicates, and generates concise summaries automatically.
-* Supports full lifecycle management with status workflows, search, pagination, and soft delete/restore.
-* Designed with clean layered architecture, DTO validation, and standardized error handling for production readiness.
-* **Tech:** Spring Boot, Java, REST APIs, MySQL.
-
+* AI-driven buyer/seller agents negotiate prices automatically using heuristics and **Q-Learning**.  
+* Computes utilities, fairness, and convergence across multiple negotiation rounds.  
+* Final agreements are securely recorded on the Ethereum blockchain via smart contracts.  
+* **Tech:** FastAPI, Next.js, Hardhat (Ethereum smart contracts).  
 
 ---
   
