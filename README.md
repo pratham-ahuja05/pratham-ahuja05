@@ -65,30 +65,31 @@
 
 ---
 
-### 📉 Core Metrics
+### 📈 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham-ahuja05&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ahuja05&layout=compact&theme=radical&border_radius=10" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pratham-ahuja05&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="github trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-ahuja05&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratham-ahuja05&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ahuja05&layout=compact&theme=tokyonight&border_radius=10" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-ahuja05&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
 ### 🏛️ Leadership & Professional Impact
-* **Industrial Relations Lead** @ IUCEE NIE Student Chapter (2025–Present) — *Bridging the gap between academic theory and industry scalability standards.*
-* **Technical Mentor** @ Shiksha Mentorship Program — *Guiding 50+ students in mastering backend logic and DSA fundamentals.*
+* **Industrial Relations Lead** @ IUCEE NIE Student Chapter (2025–Present)
+* **Technical Mentor** @ Shiksha Mentorship Program (50+ students mentored in Backend & DSA)
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand." />
-</p>
-
 <h3 align="center">⚙️ Architect. Code. Scale.</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=60&section=footer" width="100%" />
 </p>
