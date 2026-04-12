@@ -67,14 +67,7 @@
 
 ### 📈 Performance Metrics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratham-ahuja05&theme=tokyonight&no-bg=true&margin-w=15" alt="pratham-ahuja05 trophies" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham-ahuja05&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ahuja05&layout=compact&theme=tokyonight&border_radius=10" height="180" alt="languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-ahuja05&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="contribution graph" />
