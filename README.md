@@ -1,116 +1,120 @@
-<h1 align="center">Hi 👋, I'm Pratham Ahuja</h1>
-<h3 align="center">Information Science & Engineering student | Full Stack Java Developer | Problem Solver</h3>
+<h1 align="center">Hey 👋, I'm Pratham Ahuja</h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 System Design Enthusiast | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratham-ahuja05&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-ahuja05" />
+  <img src="https://komarev.com/ghpvc/?username=pratham-ahuja05&label=Profile%20Views&color=00ff88&style=flat" />
 </p>
 
 ---
 
+## ⚡ About Me
 
-### 💫 About Me
-- 🎓 Pursuing **B.E. in Information Science and Engineering** at *The National Institute of Engineering, Mysuru (2023–2027)*  
-- 💻 Passionate about **Software Development, System Design, and Web Applications**  
-- 🚀 Currently exploring **ReactJS**, **Spring Boot**, and **Scalable Architectures**  
-- 🧩 Love solving problems on **LeetCode** and improving my **DSA** skills  
-- ⚡ Fun fact: I debug my code faster when tea is nearby ☕  
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-`C++` | `Java` | `Python` | `JavaScript` | `C`
-
-**Web & Frameworks:**  
-`HTML` | `CSS` | `ReactJS` | `Spring Boot` | `Bootstrap`
-
-**Core Concepts:**  
-`Data Structures` | `DBMS` | `Operating Systems` | `Computer Networks`
-
-**Tools & Platforms:**  
-`Git` | `VS Code` | `SQL` | `XAMPP` | `Windows`
+- 🎓 B.E. Information Science & Engineering (2023–2027), NIE Mysuru  
+- 💻 Focused on Backend Systems, Scalable Architectures & Web Development  
+- 🚀 Exploring Spring Boot, ReactJS & Distributed Systems  
+- 🧩 Actively solving DSA problems on LeetCode  
+- ☕ Debugging improves significantly with tea  
 
 ---
 
-### 🚀 Projects
+## 🚀 Tech Arsenal
 
----
-
-#### 🤖 [Sentinel-AI: Intelligent Incident Engine and Issue Tracker](https://github.com/pratham-ahuja05/issue-management-system)
-* AI-powered backend that analyzes issues, detects duplicates, and generates concise summaries automatically.  
-* Supports full lifecycle management with status workflows, search, pagination, and soft delete/restore.  
-* Designed with clean layered architecture, DTO validation, and standardized error handling for production readiness.  
-* **Tech:** Spring Boot, Java, REST APIs, MySQL.  
-
----
-
-#### ⚙️ [High-Throughput Distributed Job Queue](https://github.com/pratham-ahuja05/distributed-job-queue)
-* Fault-tolerant distributed system for processing high-volume asynchronous jobs with strict priority handling.  
-* Implements exactly-once execution using pessimistic locking and Redis-backed queues.  
-* Features retry strategies, dead letter queue (DLQ), and automatic failure recovery via monitoring service.  
-* **Tech:** Java, Spring Boot, Redis, PostgreSQL, Docker.  
-
----
-
-#### 🖥️ [OS Scheduling Visualizer](https://github.com/pratham-ahuja05/OS-Scheduling-Visualizer)
-* Simulates major CPU scheduling algorithms—FCFS, SJF, Priority, and Round Robin.  
-* Features dynamic **Gantt chart visualization**, live execution tracking, and performance metrics.  
-* **Tech:** JavaFX with Timeline API for real-time animations.  
-
----
-
-#### 🪙 [EquiExchange – AI Negotiation & Web3 Trading Platform](https://github.com/pratham-ahuja05/equi-exchange)
-* AI-driven buyer/seller agents negotiate prices automatically using heuristics and **Q-Learning**.  
-* Computes utilities, fairness, and convergence across multiple negotiation rounds.  
-* Final agreements are securely recorded on the Ethereum blockchain via smart contracts.  
-* **Tech:** FastAPI, Next.js, Hardhat (Ethereum smart contracts).  
-
----
-  
-
-### 🧠 Currently Learning
-- ☕ Advanced Java and Spring Boot  
-- ⚛️ WEB DEV  
-- 🧮 DSA & Problem Solving  
-
----
-
-### 🏅 Leadership & Volunteering
-- **Industrial Relations Lead**, *IUCEE NIE Student Chapter* (Apr 2025 – Present)  
-  Coordinating webinars, workshops, and industry-academia sessions.  
-- **Mentor**, *Shiksha Mentorship Program* (Feb 2023 – Dec 2023)  
-  Guided high school students on academics and career planning.  
-
----
-
-### 📊 GitHub Stats
+- 💡 **Languages:** C++, Java, Python, JavaScript, C  
+- 🌐 **Web & Frameworks:** HTML, CSS, ReactJS, Spring Boot, Bootstrap  
+- 🧠 **Core Concepts:** Data Structures, DBMS, Operating Systems, Computer Networks  
+- 🛠️ **Tools & Platforms:** Git, VS Code, MySQL, XAMPP, Windows  
 
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham-ahuja05&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&text_color=00ff88&icon_color=00ff88" alt="Pratham's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ahuja05&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&text_color=00ff88" alt="Top Languages" height="180em"/>
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-ahuja05&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-ahuja05&theme=github_dark" alt="GitHub Summary"/>
-</p>
-
-
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/pratham-ahuja-978bb8277" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/pratham-ahuja05" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="30" width="40" /></a>
-<a href="mailto:ahujapa05@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/pratham_2005" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="leetcode" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,c,html,css,react,spring,bootstrap,git,vscode,mysql,windows" />
 </p>
 
 ---
 
-<h3 align="center">⚡ “Code. Debug. Learn. Repeat.” ⚡</h3>
+## 🔥 Featured Projects
+
+### 🤖 Sentinel-AI — Intelligent Issue Engine
+AI-powered issue tracker with smart duplicate detection & summarization  
+
+- AI-based issue analysis  
+- Smart search, pagination & lifecycle workflows  
+- Clean layered architecture (DTO validation + error handling)  
+- Production-ready backend  
+
+**Tech:** Spring Boot, Java, MySQL  
+
+---
+
+### ⚙️ Distributed Job Queue
+Fault-tolerant system for high-volume asynchronous job processing  
+
+- Priority-based job execution  
+- Retry strategies + Dead Letter Queue  
+- Exactly-once execution using Redis + locking  
+- Automatic failure recovery  
+
+**Tech:** Java, Spring Boot, Redis, PostgreSQL, Docker  
+
+---
+
+### 🖥️ OS Scheduling Visualizer
+Simulation tool for CPU scheduling algorithms  
+
+- Gantt chart visualization  
+- Live execution tracking  
+- Performance metrics  
+
+**Tech:** JavaFX  
+
+---
+
+### 🪙 EquiExchange — AI + Web3 Trading
+AI-powered negotiation platform with blockchain settlement  
+
+- AI agents using Q-Learning  
+- Utility, fairness & convergence logic  
+- Smart contract-based final agreements  
+
+**Tech:** FastAPI, Next.js, Hardhat  
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Java & Spring Boot  
+- Modern Frontend (React Ecosystem)  
+- Data Structures & Algorithms  
+
+---
+
+## 🏆 Leadership & Experience
+
+- 🎯 Industrial Relations Lead — IUCEE NIE Student Chapter  
+- 🎓 Mentor — Shiksha Mentorship Program  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratham-ahuja05&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ahuja05&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-ahuja05&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/pratham-ahuja-978bb8277"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/pratham-ahuja05"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="mailto:ahujapa05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://leetcode.com/u/pratham_2005"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+</p>
+
+---
+
+<h3 align="center">⚡ Code. Build. Scale. Repeat. ⚡</h3>
