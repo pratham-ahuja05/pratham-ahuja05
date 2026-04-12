@@ -35,7 +35,7 @@
 | **Data Persistence** | `PostgreSQL (Indexing/Opt)` `MySQL` `Redis (Atomic Ops)` `MongoDB` |
 | **System Architecture** | `Microservices` `Event-Driven Design` `RESTful APIs` `Distributed Queues` |
 | **DevOps & Tooling** | `Docker` `Hardhat` `Git/GitHub` `Postman` `Linux/Unix` |
-| **Core Computing** | `Low-Level Design (LLD)` `High-Level Design (HLD)` `Concurrency` `DSA` |
+| **Core Computing** | `Low-Level Design (LLD)` `Concurrency` `DSA` |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,spring,react,nextjs,tailwind,docker,redis,postgres,mysql,github,solidity" />
