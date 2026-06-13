@@ -45,13 +45,13 @@
 
 ### ⚡ Technical Deployments (Featured)
 
-#### 🛡️ [Sentinel-AI](https://github.com/pratham-ahuja05/sentinel-ai) | **AI-Orchestrated Issue Engine**
+#### 🛡️ [Sentinel-AI](https://github.com/pratham-ahuja05/issue-management-system) | **AI-Orchestrated Issue Engine**
 *An intelligent middleware designed to automate incident triage through semantic analysis.*
 * **Intelligence Layer:** Leveraged LLM embeddings for **Semantic Duplicate Detection** and **Contextual Summarization**, reducing manual noise in dev-cycles.
 * **Architecture:** Engineered using a **Clean Layered Architecture** with strict DTO mapping and global exception handling for high production stability.
 * **Tech Stack:** `Java` | `Spring Boot` | `MySQL` | `LLM Integration`
 
-#### 🔄 [Distributed Job Queue](https://github.com/pratham-ahuja05/job-queue) | **High-Throughput Task Processor**
+#### 🔄 [Distributed Job Queue](https://github.com/pratham-ahuja05/distributed-job-queue) | **High-Throughput Task Processor**
 *A fault-tolerant asynchronous processing system built to ensure task consistency.*
 * **Atomicity:** Implemented **Exactly-once execution** guarantees using Redis-based distributed locking to prevent race conditions.
 * **Fault Tolerance:** Developed persistent **Dead Letter Queues (DLQ)** and exponential backoff retry strategies to handle transient failures.
