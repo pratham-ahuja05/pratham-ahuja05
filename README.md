@@ -21,7 +21,7 @@
 ---
 
 ### 📡 System Overview: /dev/pratham
-> **Pre-Final Year @ The National Institute of Engineering, Mysuru (2023–2027)**
+> **Final Year @ The National Institute of Engineering, Mysuru (2023–2027)**
 >
 > I focus on the intersection of **low-latency backend infrastructure** and **intelligent automation**. My core philosophy centers on **Horizontal Scalability**, **Fault Tolerance**, and **Distributed Consensus**. I don't just build features; I architect resilient ecosystems capable of handling high-concurrency workloads.
 
