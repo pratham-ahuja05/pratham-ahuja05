@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0b3d5c,100:00d4ff&height=210&section=header&text=Pratham%20Ahuja&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Java%20%26%20Spring%20Boot%20%C2%B7%20AI-assisted%20systems&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Pratham Ahuja" />
+  <img src="./assets/banner.svg" width="100%" alt="Pratham Ahuja: Backend Engineer, Java and Spring Boot" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=620&lines=I+build+backends+that+fail+safely.;Queues+%C2%B7+retries+%C2%B7+locking+%C2%B7+auth;LLMs+inside+pipelines%2C+humans+in+the+loop.;Open+to+SDE+Intern+%2F+New-Grad+roles+%E2%80%94+2027" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=760&lines=I+build+backends+that+fail+safely.;Queues+%C2%B7+retries+%C2%B7+locking+%C2%B7+auth;LLMs+inside+pipelines%2C+humans+in+the+loop.;Open+to+SDE+Intern+%2F+New-Grad+roles+(2027)" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -170,5 +170,5 @@ An issue tracker with AI features on top.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,55:0b3d5c,100:0d1117&height=110&section=footer&text=Happy%20to%20talk%20backend%2C%20queues%20or%20AI%20pipelines&fontSize=16&fontColor=ffffff&fontAlignY=72" width="100%" alt="footer" />
+  <img src="./assets/footer.svg" width="100%" alt="Happy to talk backend, queues or AI pipelines" />
 </p>
