@@ -1,129 +1,174 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&lines=PRATHAM+AHUJA;Backend+Engineer+%C2%B7+Java+%26+Spring+Boot;Building+AI-assisted+backend+systems;Open+to+SDE+roles+%C2%B7+2027" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <a href="https://linkedin.com/in/pratham--ahuja">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/pratham_2005">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:ahujapa05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1F6XRxr1pjyzFDXr8BLmCaJgKugaeysUh/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-00D4FF?style=for-the-badge&logo=googledrive&logoColor=black" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0b3d5c,100:00d4ff&height=210&section=header&text=Pratham%20Ahuja&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Java%20%26%20Spring%20Boot%20%C2%B7%20AI-assisted%20systems&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Pratham Ahuja" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratham-ahuja05&label=Profile%20views&color=00ff88&style=flat-square" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=620&lines=I+build+backends+that+fail+safely.;Queues+%C2%B7+retries+%C2%B7+locking+%C2%B7+auth;LLMs+inside+pipelines%2C+humans+in+the+loop.;Open+to+SDE+Intern+%2F+New-Grad+roles+%E2%80%94+2027" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/pratham--ahuja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/pratham_2005"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:ahujapa05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1F6XRxr1pjyzFDXr8BLmCaJgKugaeysUh/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-00D4FF?style=for-the-badge&logo=googledrive&logoColor=black" alt="Resume" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-500%2B_problems-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="500+ problems" />
+  <img src="https://img.shields.io/badge/GSSoC-Contributor-ff6b35?style=flat-square&logo=github&logoColor=white" alt="GSSoC contributor" />
+  <img src="https://img.shields.io/badge/The_Big_Hack_2025-Top_30-8a2be2?style=flat-square" alt="Big Hack 2025 Top 30" />
+  <img src="https://img.shields.io/badge/NIE_Mysuru-ISE_'27-00ff88?style=flat-square" alt="NIE Mysuru ISE 2027" />
 </p>
 
 ---
 
-### 👋 About me
+### `$ whoami`
 
-> **B.E. Information Science & Engineering** · The National Institute of Engineering, Mysuru · 2023–2027
+```java
+var pratham = Engineer.builder()
+    .education("B.E. Information Science & Engineering @ NIE Mysuru, 2023–2027")
+    .core("Java", "Spring Boot", "PostgreSQL", "Redis")
+    .alsoUses("Python", "FastAPI", "pgvector", "Docker", "React")
+    .enjoys("queues, retries, locking, auth, and what happens when a dependency goes down")
+    .lately("putting LLMs inside backend pipelines, with a person approving the output")
+    .lookingFor("SDE Intern / New-Grad (June 2027)")
+    .locations("Bangalore", "Hyderabad", "Pune", "Mumbai", "Delhi", "Remote")
+    .build();
+```
 
-I'm a backend engineer who works mostly in **Java and Spring Boot**, with **Python/FastAPI** for the AI parts. I like the unglamorous side of backend work: queues, retries, locking, auth, and what a system does when one of its dependencies goes down. Lately I've been putting LLMs *inside* backend pipelines, with a person approving what the model suggests.
-
-- 🔭 **Building:** [IncidentSense](https://github.com/pratham-ahuja05/incident-triage-system), an AI-assisted incident triage system
-- 🎯 **Looking for:** SDE internships and new-grad roles (June 2027), in Bangalore, Hyderabad, Mumbai, Pune, Delhi or remote
-- 🧩 **Problem solving:** 500+ DSA problems, mostly in C++
-- 📫 **Reach me:** ahujapa05@gmail.com
+```diff
++ Now      : hardening IncidentSense (timeouts, idempotent worker, service-to-service auth)
++ Learning : system design at scale, Python/AI engineering
+- Not doing: putting numbers on my resume that I can't defend in an interview
+```
 
 ---
 
-### 🛠️ Tech I work with
+### 🛠️ Stack
 
-| Area | Tools |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,cpp,js,react,postgres,redis,docker,githubactions,nginx,linux,azure,git&perline=8" alt="Tech stack icons" />
+</p>
+
+| | |
 | :--- | :--- |
-| **Languages** | `Java` `Python` `C++` `JavaScript` `SQL` |
-| **Backend** | `Spring Boot` `Spring Security (JWT, RBAC)` `Spring Data JPA` `FastAPI` `REST APIs` |
-| **Data** | `PostgreSQL` `pgvector` `Redis (queues, atomic list ops)` |
-| **AI** | `Sentence-Transformers embeddings` `Vector search` `LLM APIs (Groq)` `RAG` |
-| **Infra & tooling** | `Docker` `Docker Compose` `GitHub Actions` `nginx` `Linux` `Azure VM` `Git` |
-| **Testing** | `JUnit` `Mockito` `JaCoCo` |
-| **Frontend** | `React` `Vite` |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,cpp,js,react,postgres,redis,docker,githubactions,nginx,linux,azure,git" />
-</p>
+| **Backend** | Spring Boot · Spring Security (JWT, RBAC) · Spring Data JPA · FastAPI · REST |
+| **Data** | PostgreSQL · pgvector · Redis (queues, atomic list ops) |
+| **AI** | Sentence-Transformers embeddings · vector search · LLM APIs (Groq) · RAG |
+| **Infra** | Docker Compose · GitHub Actions CI/CD · nginx · Linux · Azure VM |
+| **Testing** | JUnit · Mockito · JaCoCo |
 
 ---
 
-### 🚀 Featured projects
+### 🚀 Featured work
 
-#### 🚨 [IncidentSense](https://github.com/pratham-ahuja05/incident-triage-system) · AI-assisted incident triage
-[Live](https://incidentsense.duckdns.org) · [Demo video](https://drive.google.com/file/d/1EMiDwaJuj5V-1NAqe7BLdrIytrRXUkSZ/view?usp=drive_link)
+<table>
+<tr>
+<td colspan="2">
 
-*Matches a new production alert to past resolved incidents and suggests the fix that worked last time, or escalates when the problem looks new. A person always approves the suggestion.*
+#### 🚨 [IncidentSense](https://github.com/pratham-ahuja05/incident-triage-system) — AI-assisted incident triage
+[**Live**](https://incidentsense.duckdns.org) · [**Demo video**](https://drive.google.com/file/d/1EMiDwaJuj5V-1NAqe7BLdrIytrRXUkSZ/view?usp=drive_link)
 
-* **Async pipeline:** a Spring Boot API accepts the alert, returns `202 Accepted`, and hands the work to a Redis-queue worker with exponential-backoff retries. Dashboards update live over Server-Sent Events.
-* **Retrieval + verification:** a FastAPI service embeds the alert (`all-MiniLM-L6-v2`) and runs cosine search in pgvector. A distance threshold plus an LLM check (Groq) decides between suggesting the past fix and escalating to Slack.
-* **Learns from people:** approved fixes and human-written resolutions go back into the knowledge base, so the next similar alert can match. LLM classification sets P1–P4 priority and SLA due dates.
-* **Platform:** JWT auth with four roles, a Jira-style ticket workflow with a full audit log, and a Docker Compose stack deployed to an Azure VM through GitHub Actions.
-* **Stack:** `Java` `Spring Boot` `FastAPI` `PostgreSQL + pgvector` `Redis` `Groq` `React` `Docker`
+Matches a new production alert to past resolved incidents and suggests the fix that worked last time, or escalates when the problem looks new. **A person always approves.**
 
-<sub>The knowledge base is currently seeded with synthetic incidents, so I don't claim any accuracy numbers yet.</sub>
+```mermaid
+flowchart LR
+    A([Alert]) -->|POST · 202 Accepted| B[Spring Boot API]
+    B -->|LPUSH| Q[(Redis queue)]
+    Q -->|BRPOP| W[Worker · retries 2/4/8s]
+    W -->|/triage| AI[FastAPI AI service]
+    AI -->|cosine search| V[(pgvector)]
+    AI -->|verify match| L{{Groq LLM}}
+    AI -->|fix or escalate| W
+    W -->|SSE| D[React dashboard]
+    D -->|approve · resolve| K[(Knowledge base)]
+    K -.->|next similar alert| V
+```
 
-#### 🔄 [Distributed Job Queue](https://github.com/pratham-ahuja05/distributed-job-queue) · Fault-tolerant background job processing
-*Two services (API + worker) that run jobs reliably when workers crash or jobs fail.*
+- **Async pipeline:** the API answers `202 Accepted` and a Redis-queue worker does the slow AI work, with exponential-backoff retries. Dashboards update live over SSE.
+- **Retrieval + verification:** `all-MiniLM-L6-v2` embeddings and pgvector cosine search, then a distance threshold plus an LLM check decide between suggesting the past fix and escalating to Slack.
+- **Learns from people:** approved fixes and human resolutions go back into the knowledge base. LLM classification sets P1–P4 priority and SLA due dates.
+- **Platform:** JWT auth with four roles, Jira-style workflow with an audit log, Docker Compose on an Azure VM shipped by GitHub Actions.
 
-* **Priority queues:** high, medium and low priority queues in Redis.
-* **Safe claiming:** `rightPopAndLeftPush` hand-off plus PostgreSQL row locking (`SELECT … FOR UPDATE`) so two workers can't claim the same job.
-* **Failure handling:** exponential-backoff retries (2ⁿ), a dead-letter queue, and a recovery scheduler for jobs left behind by a crashed worker.
-* **Engineering:** Docker Compose, GitHub Actions CI, Mockito tests with JaCoCo coverage.
-* **Stack:** `Java` `Spring Boot` `Redis` `PostgreSQL` `Docker`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-#### 🧠 [AI-Assisted Issue Management System](https://github.com/pratham-ahuja05/issue-management-system)
-*An issue tracker with AI features on top.*
+<sub>The knowledge base is seeded with synthetic incidents for now, so no accuracy numbers are claimed.</sub>
 
-* **Core:** issue lifecycle, search and soft delete behind JWT auth with role-based access control (four roles).
-* **AI:** semantic duplicate detection using embeddings stored in pgvector, with LLM features via Groq (Llama 3).
-* **Stack:** `Java` `Spring Boot` `PostgreSQL` `pgvector` `React` `Groq`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔄 [Distributed Job Queue](https://github.com/pratham-ahuja05/distributed-job-queue)
+Fault-tolerant background job processing with separate API and worker services.
+
+- High / medium / low priority queues in Redis
+- `rightPopAndLeftPush` hand-off + PostgreSQL `SELECT … FOR UPDATE` so two workers can't claim the same job
+- Exponential backoff (2ⁿ), dead-letter queue, recovery scheduler for crashed workers
+- Docker Compose · GitHub Actions CI · Mockito + JaCoCo
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 [AI-Assisted Issue Management](https://github.com/pratham-ahuja05/issue-management-system)
+An issue tracker with AI features on top.
+
+- Issue lifecycle, search and soft delete
+- JWT auth with role-based access control (four roles)
+- Semantic duplicate detection with embeddings in pgvector
+- LLM features via Groq (Llama 3)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>More projects</b></summary>
+<br />
 
-* **[EquiExchange](https://github.com/pratham-ahuja05/equi-exchange):** agent-based trade negotiation (FastAPI, Next.js) with agreed trades settled through Solidity smart contracts (Hardhat, Ethers.js).
-* **MeshPay:** college project at NIE. A Spring Boot simulation of offline, UPI-style payments forwarded over a Bluetooth mesh (store-and-forward). It is a simulation for now, with no real Bluetooth or UPI integration yet.
+- **[EquiExchange](https://github.com/pratham-ahuja05/equi-exchange):** agent-based trade negotiation (FastAPI, Next.js) with agreed trades settled through Solidity smart contracts (Hardhat, Ethers.js).
+- **MeshPay:** college project at NIE. A Spring Boot simulation of offline, UPI-style payments forwarded over a Bluetooth mesh (store-and-forward). Simulation only for now; no real Bluetooth or UPI integration yet.
 
 </details>
 
 ---
 
-### 🏆 Open source, achievements & leadership
+### 🏆 Beyond code
 
-* **Open source:** contributor in GirlScript Summer of Code (GSSoC)
-* **Hackathon:** Top 30 at The Big Hack 2025
-* **Industrial Relations Lead** @ IUCEE NIE Student Chapter (2025–present)
-* **Technical Mentor** @ Shiksha Mentorship Program, mentoring 50+ students in backend and DSA
+| | |
+| :--- | :--- |
+| 🌱 **Open source** | Contributor, GirlScript Summer of Code (GSSoC) |
+| ⚡ **Hackathon** | Top 30 at The Big Hack 2025 |
+| 🤝 **Leadership** | Industrial Relations Lead, IUCEE NIE Student Chapter (2025–present) |
+| 🎓 **Mentoring** | Technical Mentor, Shiksha Mentorship Program: 50+ students in backend and DSA |
 
 <details>
-<summary><b>Certifications (Coursera, via NIE)</b></summary>
+<summary><b>📜 Certifications (Coursera, via NIE)</b></summary>
+<br />
 
-* Object Oriented Programming in Java (UC San Diego)
-* Java Programming: Solving Problems with Software (Duke)
-* Introduction to DevOps · Introduction to Cloud Computing · Encryption and Cryptography Essentials (IBM)
-* Linux for Developers (Linux Foundation)
+- Object Oriented Programming in Java (UC San Diego)
+- Java Programming: Solving Problems with Software (Duke)
+- Introduction to DevOps · Introduction to Cloud Computing · Encryption and Cryptography Essentials (IBM)
+- Linux for Developers (Linux Foundation)
 
 </details>
 
 ---
 
-### 📈 GitHub activity
+### 🐍 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-ahuja05&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratham-ahuja05/pratham-ahuja05/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratham-ahuja05/pratham-ahuja05/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/pratham-ahuja05/pratham-ahuja05/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
----
-
-<h3 align="center">Thanks for stopping by. Happy to talk backend, queues, or AI pipelines.</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,55:0b3d5c,100:0d1117&height=110&section=footer&text=Happy%20to%20talk%20backend%2C%20queues%20or%20AI%20pipelines&fontSize=16&fontColor=ffffff&fontAlignY=72" width="100%" alt="footer" />
 </p>
